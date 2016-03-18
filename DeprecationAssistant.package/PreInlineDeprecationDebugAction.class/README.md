@@ -1,0 +1,1 @@
+Same a superclass but works on pre-debug window

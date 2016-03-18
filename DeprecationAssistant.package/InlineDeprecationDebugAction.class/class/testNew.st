@@ -1,0 +1,3 @@
+tests
+testNew
+	^ RTLabeled new

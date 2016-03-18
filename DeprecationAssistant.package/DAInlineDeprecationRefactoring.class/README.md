@@ -1,0 +1,1 @@
+I was copied from RBInlineMethodFromComponentRefactoring. My main goal is to inline the body for a deprecated method instead of a node that calls it

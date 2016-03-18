@@ -1,0 +1,18 @@
+{
+	"category" : "DeprecationAssistant",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 3/18/2016 21:38",
+	"instvars" : [
+		"inlineParseTree",
+		"sourceParseTree",
+		"sourceSelector",
+		"sourceMessage",
+		"inlineClass" ],
+	"name" : "DAInlineDeprecationRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBMethodRefactoring",
+	"type" : "normal" }

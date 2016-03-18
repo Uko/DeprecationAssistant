@@ -1,0 +1,15 @@
+{
+	"category" : "DeprecationAssistant",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 3/18/2016 21:38",
+	"instvars" : [
+		"change",
+		"senderContext" ],
+	"name" : "InlineDeprecationDebugAction",
+	"pools" : [
+		 ],
+	"super" : "DebugAction",
+	"type" : "normal" }

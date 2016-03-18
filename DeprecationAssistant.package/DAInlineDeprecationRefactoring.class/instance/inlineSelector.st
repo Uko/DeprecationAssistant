@@ -1,0 +1,3 @@
+transforming
+inlineSelector
+	^sourceMessage selector

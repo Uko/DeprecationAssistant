@@ -1,0 +1,1 @@
+I provide a functionality to inline the body of deprecated method instead of the current message sent

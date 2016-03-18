@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfDeprecationAssistant",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfDeprecationAssistant",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

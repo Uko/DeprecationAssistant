@@ -6,7 +6,7 @@ Have it happened to you that someone had deprecated a method that you are using?
 
 Well, this is exactly what DeprecationAssistant is there for. It adds new debug action buttons that allow you to inline the body of a deprecated method in the place where you are calling it from.
 
-Installing
+## Installing
 
 Available from catalog browser or
 

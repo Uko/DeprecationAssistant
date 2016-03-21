@@ -5,3 +5,12 @@ Have it happened to you that someone had deprecated a method that you are using?
 ![demo animation](graphics/demo.gif)
 
 Well, this is exactly what DeprecationAssistant is there for. It adds new debug action buttons that allow you to inline the body of a deprecated method in the place where you are calling it from.
+
+Installing
+
+Available from catalog browser or
+
+    Metacello new
+        repository: 'github://Uko/DeprecationAssistant';
+        baseline: 'DeprecationAssistant';
+        load
